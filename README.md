@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cankevinlaurent
-- 👀 I’m interested in Cybersecurity, InfoSec, and Software developing
+- 👀 I’m interested in Cybersecurity, InfoSec, and software developing
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Java programs
 - 📫 How to reach me ...
 
 <!---
